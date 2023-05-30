@@ -1,0 +1,15 @@
+		TRK   INTERNATIONAL   MALLS  
+ Bill Number:1194 
+ Customer Name:Mohammad Tabrez Khan 
+ Phone Number:64987654967498
+======================================================= 
+ PRODUCTS		QTY		PRICE
+=======================================================
+ Garnier		1		25
+ Polo		1		3000
+
+ ======================================================
+ Sub Amount:			Rs.8025.00
+ Tax Amount:			Rs.50.25
+ Total Amount:			Rs.8075.25
+ ======================================================

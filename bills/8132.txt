@@ -1,0 +1,38 @@
+		TRK   INTERNATIONAL   MALLS  
+ Bill Number:8132 
+ Customer Name:Afsha Anjum 
+ Phone Number:789123458785
+======================================================= 
+ PRODUCTS		QTY		PRICE
+=======================================================
+ Sub Amount:			Rs.8070.00
+ Tax Amount:			Rs.50.70
+ Total Amount:			Rs.8120.70
+ ======================================================
+ Roadsters		1		5000
+ Roadsters		1		5000
+ Roadsters		1		5000
+ Roadsters		1		5000
+ Roadsters		1		5000
+ Roadsters		1		5000
+ Roadsters		1		5000
+ Roadsters		1		5000
+ Roadsters		1		5000
+ Roadsters		1		5000
+ Roadsters		1		5000
+ Roadsters		1		5000
+ Roadsters		1		5000
+ Roadsters		1		5000
+ Roadsters		1		5000
+ Roadsters		1		5000
+ Roadsters		1		5000
+
+ ======================================================
+ Sub Amount:			Rs.108070.00
+ Tax Amount:			Rs.1030.70
+
+ ======================================================
+ Sub Amount:			Rs.118070.00
+ Tax Amount:			Rs.1130.70
+ Total Amount:			Rs.119200.70
+ ======================================================
